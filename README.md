@@ -21,6 +21,6 @@ A simple and responsive **Currency Converter** web application built using **HTM
 **Nilesh**
 
 ---
-# Check Out!  https://currency-converter-devrotom.netlify.app/
+<h3> Check Out!  https://currency-converter-devrotom.netlify.app/</h3>
 
 ⭐ If you found this project helpful, consider giving it a star on GitHub!
